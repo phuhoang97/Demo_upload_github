@@ -1,0 +1,10 @@
+Let, Const
+Template String
+Arrow function
+Các hàm có sẵn trong ES06
+Enhanced object literals
+Destructuring
+Rest Parameters
+Spread
+Module
+

@@ -1,0 +1,21 @@
+5 Mẫu
+
+Mỗi mẫu 5 size
+
+Số lượng 2
+
+
+Những thứ cần chuẩn bị:
+
++ Tiền vốn
++ Mẫu demo 
++ Tính toán chi phí
++ Sản phẩm để sản xuất
++ Tên thương hiệu
++ Sản phẩm hero: 
+	+ Quần
+	+ Áo:
+		+ Áo theo mùa
+		+ Áo phông
+
+=> Shop yêu thích => Shop mall
